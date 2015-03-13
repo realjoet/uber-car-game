@@ -30,9 +30,9 @@ body {
 
 	.scoreboard {
 		align-self: flex-end;
-		width: 60%;
+		width: 55%;
 		font-size: 3.5em;
-		margin: 0;
+		margin: 0 0 0 25%;
 		padding: 0;
 		color: #76FF03;
 		font-weight: 800;
@@ -84,7 +84,7 @@ body {
 	text-align: center;
 	vertical-align: baseline;
 	cursor: pointer;
-	box-shadow: 2px 2px 15px #212121;
+	box-shadow: 1px 3px 15px #212121;
 	transition: .2s;
 	z-index: 10;
 }
